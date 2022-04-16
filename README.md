@@ -87,7 +87,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Brandao-Silva&repo=e-commerce&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Brandao-Silva&repo=WickSell&theme=tokyonight">
     </img>
   </a>
 </p>
