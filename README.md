@@ -1,6 +1,6 @@
 # Hi, I'm Bruno 👋
 
-<img src="https://github.com/Bruno-Brandao-Silva/Bruno-Brandao-Silva/assets/72681281/0cd8ba54-bc78-47ca-a1c9-2538abe1dd45" alt="Banner" width="100%" height="auto">
+<!--<img src="https://github.com/Bruno-Brandao-Silva/Bruno-Brandao-Silva/assets/72681281/0cd8ba54-bc78-47ca-a1c9-2538abe1dd45" alt="Banner" width="100%" height="auto"> -->
 
 ## About me:
 I'm Bruno, currently in the final stages of my Computer Engineering degree at the Federal University of Paraná. My life goals include securing a fulfilling job and eventually relocating to countries like Canada or Japan. As a software developer, I'm deeply dedicated to creating efficient and scalable solutions. With a background in various programming languages and technologies, I enjoy tackling complex problems and learning new skills.
